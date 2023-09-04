@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name: Dobby
+2. Adjective: sparkling
+3. Adjective: cozy
+4. Color: cyan
+5. Month: February
 6. 22
 7. Aliens
 8. Dinosaurs
