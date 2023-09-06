@@ -8,12 +8,12 @@
 8. Dinosaurs
 9. Planet
 10. GateWay
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+11. Bromine
+12. toxic
+13. Steel
+14. Sleep
+15. Quickly
+16. 21
 17. Unit of Time
 18. Different Activity
 19. Adjective
