@@ -14,8 +14,8 @@
 14. Sleep
 15. Quickly
 16. 21
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. unit of time: seconds
+18. Different Activity: jumping
+19. Adjective: big
+20. Vehicle: cycle
+21. Your Name: Harry p
