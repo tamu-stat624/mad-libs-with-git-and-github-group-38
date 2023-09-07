@@ -13,7 +13,7 @@
 13. Steel
 14. Sleep
 15. Quickly
-16. 21
+16. 22
 17. unit of time: seconds
 18. Different Activity: jumping
 19. Adjective: big
